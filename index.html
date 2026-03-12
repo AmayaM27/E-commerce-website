@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flipzon</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <div class="navbar">
+    <div class="logo">Flipzon</div>
+
+    <div class="search-bar">
+      <input type="text" placeholder="Search for products, brands and more">
+      <button>Search</button>
+    </div>
+
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="login.html">Login</a>
+      <a href="signup.html">Sign Up</a>
+      <a href="cart.html">Cart 🛒</a>
+    </div>
+  </div>
+
+  <!-- Hero Banner -->
+  <section class="hero">
+    <h1>Welcome to Flipzon</h1>
+    <p>Shop your favorite products at the best prices</p>
+    <button class="shop-btn">Shop Now</button>
+  </section>
+
+  <!-- Categories -->
+  <section class="categories">
+    <h2>Top Categories</h2>
+    <div class="category-list">
+      <div class="category">📱 Electronics</div>
+      <div class="category">🏠 Home</div>
+      <div class="category">📚 Books</div>
+    </div>
+  </section>
+
+  <!-- Product Grid -->
+  <section class="products">
+    <h2>Featured Products</h2>
+    <div class="product-grid">
+
+      <div class="product-card">
+        <img src="https://img.freepik.com/premium-photo/virtual-projection-smartphone-with-grey-background-copy-space_665346-13007.jpg" alt="Smartphone">
+        <h3>Smartphone</h3>
+        <p>Starting from ₹15999</p>
+        <button class="add-to-cart" data-name="Smartphone" data-price="15999">Add to Cart</button>
+      </div>
+
+      <div class="product-card">
+        <img src="https://g.sdlcdn.com/imgs/k/w/k/OLIVEOPS-P9-Silver-Headphones-Bluetooth-SDL633181658-1-c6e9a.jpg?trim=10&w=544&h=640&sharp=7" alt="Headphones" height="380">
+        <h3>Headphones</h3>
+        <p>Starting from ₹1999</p>
+        <button class="add-to-cart" data-name="Headphones" data-price="1999">Add to Cart</button>
+      </div>
+
+      <div class="product-card">
+        <img src="https://m.media-amazon.com/images/I/61Iw0g8zYYL._UF1000,1000_QL80_.jpg" alt="Smartwatch" height="375">
+        <h3>Smartwatch</h3>
+        <p>Starting from ₹3499</p>
+        <button class="add-to-cart" data-name="Smartwatch" data-price="3499">Add to Cart</button>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Flipzon. All rights reserved.</p>
+  </footer>
+
+  <!-- Link JS -->
+  <script src="script.js"></script>
+</body>
+</html>
