@@ -52,6 +52,11 @@ cd E-commerce-website
 
 3. Run the project
    Simply open **index.html** in any web browser.
+---
+
+## 📸 Screenshots
+<img width="1815" height="855" alt="Screenshot 2025-10-09 032230" src="https://github.com/user-attachments/assets/61fc2bad-6a22-432d-9681-b43829f1e25c" />
+
 
 ---
 
