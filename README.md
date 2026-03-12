@@ -55,8 +55,13 @@ cd E-commerce-website
 ---
 
 ## 📸 Screenshots
-<img width="1815" height="855" alt="Screenshot 2025-10-09 032230" src="https://github.com/user-attachments/assets/61fc2bad-6a22-432d-9681-b43829f1e25c" />
-
+<img width="1823" height="830" alt="Screenshot 2025-10-09 030428" src="https://github.com/user-attachments/assets/544ab260-9ed3-4618-a8c4-706cfc5bdaf6" />
+<img width="1808" height="908" alt="Screenshot 2025-10-09 030537" src="https://github.com/user-attachments/assets/5ddd1d5a-b01e-4884-8cfe-91ce99e7c9d4" />
+<img width="1795" height="668" alt="Screenshot 2025-10-09 030942" src="https://github.com/user-attachments/assets/ba5a444b-dbdb-4133-ae56-37e894b37ac1" />
+<img width="1819" height="657" alt="Screenshot 2025-10-09 031651" src="https://github.com/user-attachments/assets/635bf765-5c0b-47c2-a79a-a5c568a68f1b" />
+<img width="1816" height="787" alt="Screenshot 2025-10-09 031752" src="https://github.com/user-attachments/assets/fe0c1b86-0d0b-407d-b47a-d4a4be550c6d" />
+<img width="1790" height="910" alt="Screenshot 2025-10-09 032110" src="https://github.com/user-attachments/assets/03963bd5-d47c-448f-9315-bf2afdf50ab9" />
+<img width="1815" height="855" alt="Screenshot 2025-10-09 032230" src="https://github.com/user-attachments/assets/ea68d5c7-bfa9-4679-ac37-c56bf7bf4a1a" />
 
 ---
 
